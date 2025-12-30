@@ -55,7 +55,7 @@ This project is designed to work with emails from any sender, making it ideal fo
 ## ⚙️ Installation
 
 ```bash
-git clone https://github.com/your-username/otp-email-extractor.git
+git clone https://github.com/TOUMABEN/otp-email-extractor.git
 cd otp-email-extractor
 
 
